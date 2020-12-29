@@ -1,7 +1,0 @@
-1. fold change差异倍数
-作为两个值的比，常用log2 fold change，可以有正有负
-2.p value 差异的显著性
-原假设为AB没有差异，所以p<0.05时，小概率事件出现，拒绝原假设，AB有差异
-3.FDR 假阳性率
-4.q value矫正后的p value
-常用-log10（q value)用于火山图之类，差异越显著该值越小。
